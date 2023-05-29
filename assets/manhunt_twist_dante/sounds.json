@@ -1,0 +1,42 @@
+{
+  "colour_bugatti": {
+    "category": "hostile",
+    "subtitle": "subtitles.colour_bugatti",
+    "sounds": [
+      {
+        "name": "manhunt_twist_dante:colour_bugatti",
+        "stream": false
+      }
+    ]
+  },
+  "american_gun": {
+    "category": "player",
+    "subtitle": "subtitles.american_gun",
+    "sounds": [
+      {
+        "name": "manhunt_twist_dante:y2mate.com-realistic-gunshot-sound-effect",
+        "stream": false
+      }
+    ]
+  },
+  "israel_siren": {
+    "category": "player",
+    "subtitle": "subtitles.israel_siren",
+    "sounds": [
+      {
+        "name": "manhunt_twist_dante:air_raid_siren_sound_effect",
+        "stream": false
+      }
+    ]
+  },
+  "lazer_kiwi": {
+    "category": "player",
+    "subtitle": "subtitles.lazer_kiwi",
+    "sounds": [
+      {
+        "name": "manhunt_twist_dante:y2mate.com-laser-sound-effect",
+        "stream": false
+      }
+    ]
+  }
+}
