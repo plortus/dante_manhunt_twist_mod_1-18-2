@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "manhunt_twist_dante:blocks/table_top",
+    "up": "manhunt_twist_dante:blocks/table_top",
+    "north": "manhunt_twist_dante:blocks/table_top",
+    "east": "manhunt_twist_dante:blocks/table_top",
+    "south": "manhunt_twist_dante:blocks/table_top",
+    "west": "manhunt_twist_dante:blocks/table_top",
+    "particle": "manhunt_twist_dante:blocks/table_top"
+  }
+}

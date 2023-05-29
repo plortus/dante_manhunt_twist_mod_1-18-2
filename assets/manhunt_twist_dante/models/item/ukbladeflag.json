@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "manhunt_twist_dante:items/uk_blade"
+  }
+}
