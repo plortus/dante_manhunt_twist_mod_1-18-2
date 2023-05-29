@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "manhunt_twist_dante:ukbladeflag"
+    },
+    "1": {
+      "item": "minecraft:blue_wool"
+    },
+    "2": {
+      "item": "minecraft:blue_wool"
+    },
+    "3": {
+      "item": "minecraft:blue_wool"
+    },
+    "4": {
+      "item": "minecraft:white_wool"
+    },
+    "5": {
+      "item": "minecraft:blue_wool"
+    },
+    "6": {
+      "item": "minecraft:blue_wool"
+    },
+    "7": {
+      "item": "minecraft:blue_wool"
+    },
+    "8": {
+      "item": "minecraft:blue_wool"
+    }
+  },
+  "result": {
+    "item": "manhunt_twist_dante:australiaflag",
+    "count": 1
+  }
+}

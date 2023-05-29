@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "manhunt_twist_dante:englandflag"
+    },
+    {
+      "item": "manhunt_twist_dante:walesflag"
+    },
+    {
+      "item": "manhunt_twist_dante:scotlandflag"
+    },
+    {
+      "item": "manhunt_twist_dante:northirelandflag"
+    }
+  ],
+  "result": {
+    "item": "manhunt_twist_dante:ukbladeflag",
+    "count": 1
+  }
+}

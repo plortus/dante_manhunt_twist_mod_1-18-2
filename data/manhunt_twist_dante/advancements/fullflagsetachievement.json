@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "manhunt_twist_dante:russiaflagchestplate_chestplate"
+    },
+    "title": {
+      "translate": "advancements.fullflagsetachievement.title"
+    },
+    "description": {
+      "translate": "advancements.fullflagsetachievement.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "fullflagsetachievement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "manhunt_twist_dante:wooltableachievement"
+}
