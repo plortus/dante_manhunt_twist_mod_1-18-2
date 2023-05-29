@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Custom license"
+
+[[mods]]
+modId="manhunt_twist_dante"
+version="1.0.0"
+displayName="Manhunt Twist"
+credits="https://youtube.com/@DiamondWizard"
+displayURL="https://youtube.com/@DiamondWizard"
+authors="ignDante"
+
+[[dependencies.manhunt_twist_dante]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
